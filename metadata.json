@@ -1,0 +1,5 @@
+{
+  "name": "Tata Nexus Agentic OS",
+  "description": "Unified Agentic Operating System for Tata Motors connecting Customers, Dealerships, and OEM with AI-driven insights.",
+  "requestFramePermissions": ["microphone"]
+}
